@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [ibrahimkamay.com](ibrahimkamay.com)
 
-- 📫 How to reach me [linkedin](https://www.linkedin.com/in/halil-ibrahim-kamay/)
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/halil-ibrahim-kamay/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
