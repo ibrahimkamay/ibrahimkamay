@@ -13,11 +13,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="ibrahimkamay" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/halil-ibrahim-kamay" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="halil-ibrahim-kamay" height="30" width="40" /></a>
-<a href="https://instagram.com/ibrahimkamayy" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="ibrahimkamayy" height="30" width="40" /></a>
-<a href="https://www.behance.net/ibrahimkamay" target="blank"><img align="center" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="ibrahimkamay" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ibrahimkamay" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="ibrahimkamay" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="ibrahimkamay"  /></a>
+<a href="https://linkedin.com/in/halil-ibrahim-kamay" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="halil-ibrahim-kamay" /></a>
+<a href="https://instagram.com/ibrahimkamayy" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="ibrahimkamayy"  /></a>
+<a href="https://www.behance.net/ibrahimkamay" target="blank"><img align="center" src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="ibrahimkamay"  /></a>
+<a href="https://www.youtube.com/c/ibrahimkamay" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="ibrahimkamay"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
